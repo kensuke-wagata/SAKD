@@ -1,6 +1,6 @@
 # Distill Only What is Reliable: Stability-based Adaptive Knowledge Distillation
 
-This repository is an official PyTorch implementation of "[Distill Only What is Reliable: Stability-based Adaptive Knowledge Distillation]()" published in IJCNN2026. SAKD, an adaptive knowledge distillation method, which modulates distillation strength based on instance instability.
+This repository is an official PyTorch implementation of "[Distill Only What is Reliable: Stability-based Adaptive Knowledge Distillation](https://doi.org/10.1109/IJCNN69854.2026.11729793)" published in IJCNN2026.
 
 ## Version
 
