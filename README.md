@@ -26,7 +26,19 @@ where
 
 This repository is built based on [NORM](https://github.com/OSVAI/NORM). We thank the authors for releasing their amazing codes.
 
+## Citation
 
+```bibtex
+@INPROCEEDINGS{11729793,
+  author={Wagata, Kensuke and Shimizu, Hiroki and Suzuki, Keisuke and Kosaka, Yuki},
+  booktitle={2026 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Distill Only What is Reliable: Stability-based Adaptive Knowledge Distillation}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/IJCNN69854.2026.11729793}}
+```
 
 
 
